@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./github-header-banner.png" alt="Header Banner" width="100%">
 </p>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on Full Stack Web Development<br>🤝 I’m looking to collaborate on Web Development & Open Source projects<br>🌱 I’m currently learning React, Node.js & Backend Development<br>💬 Ask me about JavaScript, PHP, C++, Java & DSA<br>🧠 I’m interested in OOPs and Problem Solving<br>⚡ Fun fact: I enjoy learning new technologies and solving coding problems
 
 
